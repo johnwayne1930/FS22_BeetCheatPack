@@ -2,7 +2,7 @@
 Mod for Farming Simulator 22 
 
 #### Description
-Beet implements with modified working width.  
+Beet implements with modified working width (3.2m).  
 Ideal for processing beet rows in one pass.  
 Helper, CP, GPS compatible. 
 
